@@ -21,6 +21,7 @@
         "drupal/core-project-message": "^9.5",
         "drupal/core-recommended": "^9.5",
         "drupal/core-vendor-hardening": "^9.5",
+        "drupal/google_translator": "^2.1",
         "drupal/vani": "^9.1"
     },
     "conflict": {
